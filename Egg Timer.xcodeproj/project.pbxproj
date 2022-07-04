@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0833C2E828733BFB001D0C4C /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0833C2E728733BFB001D0C4C /* alarm_sound.mp3 */; };
 		0888A8D1286F32AD00D04CF8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0888A8D0286F32AD00D04CF8 /* AppDelegate.swift */; };
 		0888A8D3286F32AD00D04CF8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0888A8D2286F32AD00D04CF8 /* SceneDelegate.swift */; };
 		0888A8D5286F32AD00D04CF8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0888A8D4286F32AD00D04CF8 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0833C2E728733BFB001D0C4C /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 		0888A8CD286F32AD00D04CF8 /* Egg Timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Egg Timer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0888A8D0286F32AD00D04CF8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0888A8D2286F32AD00D04CF8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				0888A8D9286F32AE00D04CF8 /* Assets.xcassets */,
 				0888A8DB286F32AE00D04CF8 /* LaunchScreen.storyboard */,
 				0888A8DE286F32AF00D04CF8 /* Info.plist */,
+				0833C2E728733BFB001D0C4C /* alarm_sound.mp3 */,
 			);
 			path = "Egg Timer";
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				0888A8DD286F32AE00D04CF8 /* LaunchScreen.storyboard in Resources */,
 				0888A8DA286F32AE00D04CF8 /* Assets.xcassets in Resources */,
+				0833C2E828733BFB001D0C4C /* alarm_sound.mp3 in Resources */,
 				0888A8D8286F32AD00D04CF8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
